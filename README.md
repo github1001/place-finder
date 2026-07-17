@@ -93,25 +93,3 @@ http://localhost:5173
 See the individual frontend and backend README files for complete setup instructions.
 
 ---
-
-# Screenshots
-
-## Application Screenshot
-
-![Place Finder Screenshot](demo/place-finder-screenshot.png)
-
----
-
-## Application Demo
-
-The GIF below demonstrates:
-
-- Searching for places using Google Place Autocomplete
-- Displaying the selected location on Google Maps
-- Viewing place details
-- Managing search history with Redux Toolkit
-- Saving a place as a favourite
-- Loading favourite places from the Spring Boot backend
-- Removing favourite places
-
-![Place Finder Demo](demo/place-finder-demo.gif)
