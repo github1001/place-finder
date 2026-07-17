@@ -1,4 +1,6 @@
-# Place Finder for Maybank Malaysia (ramped up version compared to the old AutoComplete that just searches by textfield)
+# Place Finder for Maybank Malaysia
+
+The old version was just this https://github.com/github1001/Autocomplete
 
 A full-stack place-search application built with React, Redux Toolkit, Google Maps and Spring Boot.
 
